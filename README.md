@@ -1,2 +1,2 @@
 # PR-project
- Pattern Recognition Project
+# An LSTM Approach for SMS Classification using Recurrent Neural Network
